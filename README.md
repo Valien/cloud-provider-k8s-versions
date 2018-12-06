@@ -27,3 +27,5 @@ Stable version of Kubernetes is: [v1.13](https://kubernetes.io/docs/setup/releas
 Reference links:
 
 	• https://blog.hasura.io/gke-vs-aks-vs-eks-411f080640dc
+
+***Please feel free to do a PR! I cannot possibly manage every major K8S distro out there so if you have data that would be a great fit for this chart then by all means contribute!***
